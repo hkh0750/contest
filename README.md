@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hkh0750
+- 👀 I’m interested in Data Analyzing & Data Science.
+- 🌱 I’m currently learning Statistics, and further more planning to learn programming languages.
+- 💞️ I’m looking to collaborate with any talanted data scientiests or programmers.
+- 📫 How to reach me is he/him
